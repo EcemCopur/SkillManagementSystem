@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Form1.resources
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.CoreCompileInputs.cache
