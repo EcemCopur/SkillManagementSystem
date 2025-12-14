@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "John",
+    "LastName": "Doe",
+    "IdentityNumber": 123456789,
+    "DateOfBirth": "1990-01-01T00:00:00",
+    "HireDate": "2023-12-14T20:11:40.2050405+03:00",
+    "CurrentSalary": 90000.0,
+    "DepartmentId": 1,
+    "PositionId": 1,
+    "Status": 1,
+    "TerminationDate": null,
+    "FullName": "John Doe",
+    "Tenure": 24
+  }
+]

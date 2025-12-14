@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLurJ8S7gsk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\SkillManagementSystem\\SkillManagementSystem\\SkillManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

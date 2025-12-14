@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillManagementSystem", "SkillManagementSystem\SkillManagementSystem.csproj", "{82069DE1-4BBA-46E7-8DF6-32C2C316B786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82069DE1-4BBA-46E7-8DF6-32C2C316B786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82069DE1-4BBA-46E7-8DF6-32C2C316B786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82069DE1-4BBA-46E7-8DF6-32C2C316B786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82069DE1-4BBA-46E7-8DF6-32C2C316B786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45039B62-F5A8-4B68-A49E-8A71D08423E0}
+	EndGlobalSection
+EndGlobal
