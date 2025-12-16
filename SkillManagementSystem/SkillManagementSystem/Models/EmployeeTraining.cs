@@ -15,7 +15,7 @@ namespace SkillManagementSystem.Models
         
         public int EmployeeId { get; set; }
         public int TrainingId { get; set; }
-        public int? TrainingSessionID { get; set; }
+        public int? TrainingSessionId { get; set; }
         public DateTime? StartDate { get; set; }
         public DateTime? EndDate { get; set; }
         public EmployeeTrainingStatus Status { get; set; }

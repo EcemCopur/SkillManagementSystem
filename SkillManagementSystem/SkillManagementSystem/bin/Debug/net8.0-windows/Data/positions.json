@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Name": "Senior Developer",
+    "DepartmentId": 1,
+    "Capacity": 5,
+    "PositionLevel": 3,
+    "MinSalary": 80000.0,
+    "MaxSalary": 120000.0,
+    "ReportsToPositionId": null,
+    "HiringCost": 5000.0
+  }
+]

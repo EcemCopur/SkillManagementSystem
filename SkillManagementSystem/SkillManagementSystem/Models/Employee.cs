@@ -21,7 +21,7 @@ namespace SkillManagementSystem.Models
         //Work İnfo
         public DateTime HireDate { get; set; }
         public decimal CurrentSalary { get; set; }
-        public int DepatmentId { get; set; }
+        public int DepartmentId { get; set; }
         public int PositionId { get; set; }
         public EmployeeStatus Status { get; set; }
         public DateTime? TerminationDate { get; set; }

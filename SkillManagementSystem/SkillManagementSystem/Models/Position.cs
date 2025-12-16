@@ -19,7 +19,7 @@ namespace SkillManagementSystem.Models
         public int PositionLevel { get; set; }
         public decimal MinSalary { get; set; }
         public decimal MaxSalary { get; set; }
-        public int? ReportsToPositionID { get; set; }
+        public int? ReportsToPositionId { get; set; }
         public decimal HiringCost { get; set; }
 
         [JsonIgnore]
@@ -36,37 +36,41 @@ namespace SkillManagementSystem.Models
         public int NumOpenPositions => Capacity - Employees.Count;
 
         [JsonIgnore]
+        public Department Department { get; set; }
+
+        [JsonIgnore]
+        public Position ReportsToPosition { get; set; }
+
+        [JsonIgnore]
         public List<PositionProcess> UnmetProcesses
         {
             get
             {
                 var unmetProcesses = new List<PositionProcess>();
-                foreach (var process in Processes)
+                foreach (var positionProcess in Processes)
                 {
-                    bool canPerform = Employees.Any(worker =>
-                        process.RequiredSkills.All(reqSkill =>
-                            worker.Skills.Any(ws =>
-                                ws.SkillId == reqSkill.SkillID &&
-                                ws.SkillDegree >= reqSkill.RequiredLevel)));
+                    // Check if any employee can perform this process
+                    bool canPerform = Employees.Any(employee =>
+                        positionProcess.Process.RequiredSkills.All(reqSkill =>
+                            employee.Skills.Any(empSkill =>
+                                empSkill.SkillId == reqSkill.SkillId &&
+                                (int)empSkill.CurrentLevel >= reqSkill.RequiredLevel)));
 
                     if (!canPerform)
                     {
-                        unmetProcesses.Add(process);
+                        unmetProcesses.Add(positionProcess);
                     }
                 }
                 return unmetProcesses;
             }
         }
-
-        [JsonIgnore]
-        public List<PositionSkill> RequiredSkills { get; set; }
         
-
         //Constructor
         public Position()
         {
-            RequiredSkills = new List<PositionSkill>();
+            RequiredSkills = new List<PositionRequiredSkill>();
             Processes = new List<PositionProcess>();
+            Employees = new List<Employee>();
             MinSalary = 0;
             MaxSalary = 0;
         }

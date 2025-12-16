@@ -1,7 +1,48 @@
 C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.AssemblyReference.cache
-C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Form1.resources
 C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.GenerateResource.cache
 C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.exe
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.deps.json
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.runtimeconfig.json
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.dll
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.pdb
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillMan.4F098DB9.Up2Date
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.dll
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\refint\SkillManagementSystem.dll
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.pdb
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\ref\SkillManagementSystem.dll
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.DepartmentManagementForm.resources
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.EmployeeEditForm.resources
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.EmployeeManagementForm.resources
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.EmployeeSkillsForm.resources
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.PositionManagementForm.resources
+C:\Users\ASUS\source\repos\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.MainForm.resources
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.exe
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.deps.json
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.dll
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\SkillManagementSystem.pdb
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.DepartmentManagementForm.resources
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.EmployeeEditForm.resources
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.EmployeeManagementForm.resources
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.EmployeeSkillsForm.resources
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.MainForm.resources
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.Forms.PositionManagementForm.resources
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillMan.4F098DB9.Up2Date
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.dll
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\refint\SkillManagementSystem.dll
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.pdb
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\SkillManagementSystem.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\GAZİ IE\IE201 Computer Programming\Proje\SkillManagementSystem\SkillManagementSystem\obj\Debug\net8.0-windows\ref\SkillManagementSystem.dll
